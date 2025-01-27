@@ -6,3 +6,6 @@ github_Foundations course
 # git configure
 
 
+# git status
+
+
